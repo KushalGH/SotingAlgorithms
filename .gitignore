@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+.vs
+
+
+/WebApplication3/packages/
